@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming & Mathematics 
 - 🌱 I’m currently learning C, OOPS with C++ , DSA in C
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Insta I'd:- @neha_sh_37
+- 📫 How to reach me Email id:- nehash3786@gmail.com
 
 <!---
 SimplyReal/SimplyReal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
