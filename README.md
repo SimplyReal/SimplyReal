@@ -2,6 +2,7 @@
 - 👀 I’m interested in Programming & Mathematics 
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ Languages:- C++, Python
+- Technical Skills:- DSA, OOPs
 - 📫 How to reach me:- nehash3786@gmail.com
 
 <!---
