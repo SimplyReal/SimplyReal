@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @SimplyReal
-- 👀 I’m interested in Programming & Mathematics 
-- 🌱 I’m currently learning Full Stack Web Development
-- 💞️ Languages:- C++, Python
-- Technical Skills:- DSA, OOPs
-- 📫 How to reach me:- nehash3786@gmail.com
+- Hi, I’m @SimplyReal, a Beta Microsoft Student Ambassador
+- I’m interested in Programming & Mathematics 
+- I’m currently learning Full Stack Web Development
+- Languages:- C++, Python
+- Technical Skills:- DSA, OOPs, DBMS
+- How to reach me:- nehash3786@gmail.com
 
 <!---
 SimplyReal/SimplyReal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
